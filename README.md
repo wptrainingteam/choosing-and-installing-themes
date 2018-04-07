@@ -51,19 +51,35 @@ You will be better equipped to work through this lesson if you have:
 
 ### Introduction
 
-You are using WordPress, a content management system (CMS). Your content is completely separated from its presentation. This means that the look and feel of your site can change completely just by using a different theme, while your content will remain the same. Themes do a lot more than defining how your site looks, though. They can choose to hide or show some of your content or metadata, enable and disable WordPress features, and provide you with locations in the design where you can insert widgets and menus. They can even enable features that are specific to them.
+You are using WordPress, a content management system (CMS). Your content is completely separated from its presentation. This means that the look and feel of your site can change completely just by using a different theme, while your content will remain the same. 
+
+Themes do a lot more than defining how your site looks, though. They can choose to hide or show some of your content or metadata, enable and disable WordPress features, and provide you with locations in the design where you can insert widgets and menus. They can even enable features that are specific to them.
 
 ### Where to find Themes?
 
-WordPress themes are everywhere. If you were to do a Google search for "WordPress Theme" you would find over 71,200,000 results! Keep in mind though that not all themes are created equal. If you are going to download a WordPress theme, please make sure it is from a reputable place. Sometimes websites advertising free WordPress themes are really distributing themes with malicious code or themes that have not been tested or are not well supported. If you are searching for a free WordPress theme, it is wise to start with the [WordPress Theme Directory](https://wordpress.org/themes/). All of these themes have been reviewed by a team of WordPress developers and tested against the latest coding standards. If you are interested in purchasing a commercial WordPress theme, take a look at the list of [commercially supported GPL themes](https://wordpress.org/themes/commercial/). While details vary by company, most of the themes offer additional support that is not always available in the [WordPress Theme Directory](https://wordpress.org/themes/).
+WordPress themes are everywhere. If you were to do a Google search for "WordPress Theme" you would find over 71,200,000 results! Keep in mind though that not all themes are created equal. 
+
+If you are going to download a WordPress theme, please make sure it is from a reputable place. Sometimes websites advertising free WordPress themes are really distributing themes with malicious code or themes that have not been tested or are not well supported. 
+
+If you are searching for a free WordPress theme, it is wise to start with the [WordPress Theme Directory](https://wordpress.org/themes/). All of these themes have been reviewed by a team of WordPress developers and tested against the latest coding standards. 
+
+If you are interested in purchasing a commercial WordPress theme, take a look at the list of [commercially supported GPL themes](https://wordpress.org/themes/commercial/). While details vary by company, most of the themes offer additional support that is not always available in the [WordPress Theme Directory](https://wordpress.org/themes/).
 
 ### What to consider when choosing a theme?
 
-Before you even start to look at themes, it is important to have a solid idea of the purpose and audience for your site. Will your site function primarily as a personal blog for friends and family to read? Does your site focus on sharing articles and content, like a magazine or newspaper would? Or, are you looking to build a site for your business that showcases information about your staff and your services or products? You will also need to consider the kinds of content you will have for your site. Will photography be a main focus? If so, you may want to choose a theme that has large featured image areas. Will your site just focus on written content? If so, choose one with striking typography and a smaller emphasis on images. One important note: you should select a theme based on how it displays your content and not for specific features. You can always add specific features such as restaurant menus, calendars, contact forms and photo galleries via plugins.
+Before you even start to look at themes, it is important to have a solid idea of the purpose and audience for your site. Will your site function primarily as a personal blog for friends and family to read? Does your site focus on sharing articles and content, like a magazine or newspaper would? Or, are you looking to build a site for your business that showcases information about your staff and your services or products? 
+
+You will also need to consider the kinds of content you will have for your site. Will photography be a main focus? If so, you may want to choose a theme that has large featured image areas. Will your site just focus on written content? If so, choose one with striking typography and a smaller emphasis on images. 
+
+One important note: you should select a theme based on how it displays your content and not for specific features. You can always add specific features such as restaurant menus, calendars, contact forms and photo galleries via plugins.
 
 ### How to evaluate a theme?
 
-Once you have you have your list of theme requirements, you will want to narrow down the possible themes. If you are reviewing themes in the Theme Directory, you can use feature filter option and select the features that are important to you. Take a look at what can be customized in each theme. Many themes come with additional color palletes, font choices and custom widget areas. These are all things that can be adjusted using the WordPress Customizer. Once you have selected a theme, you can see the number of times the theme has been downloaded, the theme rating and visit the support forum for that theme.
+Once you have you have your list of theme requirements, you will want to narrow down the possible themes. If you are reviewing themes in the Theme Directory, you can use feature filter option and select the features that are important to you. 
+
+Take a look at what can be customized in each theme. Many themes come with additional color palletes, font choices and custom widget areas. These are all things that can be adjusted using the WordPress Customizer. 
+
+Once you have selected a theme, you can see the number of times the theme has been downloaded, the theme rating and visit the support forum for that theme.
 
 ## Exercises
 
