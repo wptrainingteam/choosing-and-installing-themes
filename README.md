@@ -157,7 +157,7 @@ Once your theme is installed, activate it to make it visible on your website.
 > 
 * [Using Themes](https://codex.wordpress.org/Using_Themes) @ Codex
 * [Selecting the Perfect WordPress Theme](https://www.wpbeginner.com/wp-themes/selecting-the-perfect-theme-for-wordpress/) @ WPBeginner
-* [# Choosing A WordPress Theme – The Ultimate Guide](https://www.wpkube.com/choosing-a-wordpress-theme/) @ WPKube
+* [Choosing A WordPress Theme – The Ultimate Guide](https://www.wpkube.com/choosing-a-wordpress-theme/) @ WPKube
 
 ## Example Lesson
 
