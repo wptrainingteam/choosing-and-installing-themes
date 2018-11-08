@@ -1,4 +1,4 @@
-﻿# Choosing And Installing Themes
+﻿# Choosing and Installing Themes
 
 ## Description
 
@@ -144,7 +144,7 @@ Once your theme is installed, activate it to make it visible on your website.
 
 **Answer:** 1\. Commercial WordPress Theme Shops or 2\. WordPress Theme Directory
 
-**Which of the following is NOT a criteria when choosing a theme?**
+**Which of the following is NOT a criterion when choosing a theme?**
 1. Browser compatibility
 2. WordPress and plugins compatibility
 3. Responsive
@@ -194,13 +194,13 @@ One important note: you should select a theme based on how it displays your cont
 
 Once you have you have your list of theme requirements, you will want to narrow down the possible themes. If you are reviewing themes in the Theme Directory, you can use feature filter option and select the features that are important to you. 
 
-Take a look at what can be customized in each theme. Many themes come with additional color palletes, font choices and custom widget areas. These are all things that can be adjusted using the WordPress Customizer. 
+Take a look at what can be customized in each theme. Many themes come with additional color palettes, font choices and custom widget areas. These are all things that can be adjusted using the WordPress Customizer. 
 
 Some of the important criteria when evaluating a theme:
 * **Responsive**: Mobile devices are commonly used nowadays for web surfing. Choosing a theme that is responsive is no longer an option in order to support various types of smaller screens compared to a computer screen.
 * **Browser Compatibility**: Visitors to your site could be using different kinds of browsers. Make sure the selected theme is able to support most of the major browser platforms on computers and mobile devices.
 * **Ratings**: A theme with low ratings could mean that the theme has poor design, a lot of bugs or even poor support given by the theme designer. Make sure you read the ratings and review when selecting a theme.
-* **Budget and Support**: Both of these criteria can be interrelated. Premium themes usually cost around $50 to $100 depending on the quality but that also means user can expect better and faster support from the theme designer. Free themes normally gets support on the WordPress.org support forum.
+* **Budget and Support**: Both of these criteria can be interrelated. Premium themes usually cost around $50 to $100 depending on the quality but that also means user can expect better and faster support from the theme designer. Free themes normally get support on the WordPress.org support forum.
 * **Compatibility with WordPress and Plugins**: This is one of the important criteria when choosing a theme, especially if you're building a site with extensive usage of plugins.
 
 
