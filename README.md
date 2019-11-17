@@ -2,13 +2,13 @@
 
 ## Description
 
-In this lesson you will learn how there are over 6000 free themes in the [official WordPress.org directory](https://wordpress.org/themes/) and at least as many in the commercial space. This lesson will give you the tools needed to thoroughly evaluate themes and choose the most appropriate for your site(s).
+In this lesson you will learn that there are over 6000 free themes in the [official WordPress.org directory](https://wordpress.org/themes/), and at least as many in the commercial space. This lesson will give you the tools needed to thoroughly evaluate themes and choose the most appropriate for your site(s).
 
 ## Objectives
 
 After completing this lesson, participants will be able to:
 *   Outline where to find themes; as well as highlighting the best place to start looking.
-*   Explain what to look for and consider in a good theme.
+*   Explain what to look for (and other considerations) in a good theme.
 *   Describe how to evaluate a theme.
 *   Demonstrate how to install a theme.
 
